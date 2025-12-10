@@ -1,4 +1,4 @@
-# 🔗 USB Monitor using Netlink
+#� USB Monitor using Netlink
 
 USB Monitor is desktop application for Linux, developed in C++ and Qt, providing real-time tracking of USB device connections and disconnections. It's designed to be highly efficient and deliver detailed information.
 
@@ -8,7 +8,7 @@ This project showcases how modern system mechanisms can be leveraged to create c
 
 ---
 
-### ⛓️ **Table of Contents**
+### **Table of Contents**
 
 - [Visual Overview](#visual-overview)
 - [Project Structure](#project-structure)
